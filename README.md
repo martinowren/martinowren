@@ -1,8 +1,31 @@
-### Hi there 👋
+
+<a href="https://martinowren.com/" target="_blank">
+<img src="https://i.imgur.com/K0mJVLO.jpg" alt="profile" />
+</a>
+
+### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+Martin Owren is a <img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/> working as a consultant for small, medium and large companies. 
+He is also a <a href="https://russemerket.no/" target="_blank">Entrepreneur</a>, Gamer, and much much more.  
+
+Martin enjoy's writing code in the following languages with some awesome tools:
+* Python
+* PHP
+* WordPress
+* React
+* NextJS
+* SaSS
+* And more
+
+</p>
+
+
+
+
+
+[![Twitter](https://img.shields.io/twitter/follow/martinowren?label=@martinowren&style=social)][t] [![Github](https://img.shields.io/github/followers/martinowren?style=social&label=Follow)][g]
 
 <!--
-**martinowren/martinowren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
