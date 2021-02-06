@@ -23,8 +23,9 @@ Martin enjoy's writing code in the following languages with some awesome tools:
 
 
 
-[![Twitter](https://img.shields.io/twitter/follow/martinowren?label=@martinowren&style=social)][t] [![Github](https://img.shields.io/github/followers/martinowren?style=social&label=Follow)][g]
-
+[Twitter](https://img.shields.io/twitter/follow/martinowren?label=@martinowren&style=social)  
+[Github](https://img.shields.io/github/followers/martinowren?style=social&label=Follow)  
+ 
 <!--
 Here are some ideas to get you started:
 
