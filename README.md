@@ -5,16 +5,17 @@
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Martin Owren is a <img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/> working as a consultant for small, medium and large companies. 
+Martin Owren is a <img align="center" height="300" widht="auto" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/> working as a consultant for small, medium and large companies. 
 He is also a <a href="https://russemerket.no/" target="_blank">Entrepreneur</a>, Gamer, and much much more.  
 
 Martin enjoy's writing code in the following languages with some awesome tools:
+* React
+* CSS/SCSS/Tailwind
+* NextJS
+* Node
 * Python
 * PHP
 * WordPress
-* React
-* NextJS
-* SaSS
 * And more
 
 </p>
